@@ -1,0 +1,10 @@
+.ConteinerPai{
+  display: flex;
+  background-color: rgb(87, 7, 70);
+  gap: 10px;
+  flex-direction: column;
+  justify-content: center;
+  justify-self: center;
+  padding: 10px;
+  margin: 20px;
+}

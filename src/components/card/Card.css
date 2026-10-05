@@ -1,0 +1,17 @@
+.card-container {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(48, 49, 49);
+  justify-content: center;
+  text-align: center;
+  padding: 10px;
+  border-radius: 10px;
+  gap: 2px;
+  flex-basis: 150px;
+}
+
+.btn-container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 10px ;
+}

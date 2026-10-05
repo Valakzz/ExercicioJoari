@@ -1,0 +1,13 @@
+.btn {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.green {
+  color: rgb(141, 189, 141);
+}
+
+.red {
+  color: rgb(179, 119, 119);
+}
